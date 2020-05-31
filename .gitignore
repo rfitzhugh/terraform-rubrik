@@ -1,0 +1,5 @@
+
+.DS_Store
+set-timezone/.DS_Store
+cloud-conversion/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.28.1_x4
+cloud-conversion/.terraform/plugins/darwin_amd64/lock.json
