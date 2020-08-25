@@ -1,10 +1,10 @@
 ## =============================================================================
 #  Variable Definition                                                         #
 ## =============================================================================
-var.aws_region = ""
-var.aws_bucket = ""
-var.aws_access_key = ""
-var.aws_secret_key = ""
-var.aws_storage_class = ""
-var.rubrik_archive_name = ""
-var.aws_kms_key = ""
+aws_region = ""
+aws_bucket = ""
+aws_access_key = ""
+aws_secret_key = ""
+aws_storage_class = ""
+rubrik_archive_name = ""
+aws_kms_key = ""
